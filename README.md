@@ -14,7 +14,7 @@ You may know the game as it was subsequently published on the cover CD of the Of
 
 [The Net Yaroze was a development kit for the original Playstation](https://www.eurogamer.net/the-story-of-yaroze-sonys-first-indie-push), released by Sony in 1997. It was a black Playstation with a different boot ROM, and a Sony SDK. It was only available to hobbyists and small developers, and cost £750. It was a way to write games for dedicated hardware that didn't exist outside of the more expensive blue professional developer kits.
 
-![Kit](./assets/img/the_net_yaroze_system.png)
+![Kit](./assets/img/yaroze.png)
 
 The thing is mostly this code was written late at night, often after I'd had a few cans of cider (I coined the company name CiderLogic in my head), and it was also written at a time when I was just starting a career in software engineering. So to say it's not the best written code in the world is something of an understatement. But I've left it as it was written at the time, because it's important to know when enough is good enough.
 
