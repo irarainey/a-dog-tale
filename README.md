@@ -1,6 +1,12 @@
-![Logo](./assets/img/logo.png)
+# A Dog Tale
 
 The is the source code for a game demo I wrote for the Net Yaroze in 1997, called A Dog Tale. Demo is the key word here as it's not really a game at all, it was just me playing around with some ideas. In fact the whole thing only started because I wanted to write some code to perform [parallax scrolling](https://en.wikipedia.org/wiki/Parallax_scrolling), and it kind of grew from there. Before I knew it Sony were looking for examples of Net Yaroze games to promote the platform and so I submitted it.
+
+![Start](./assets/img/001.png)
+
+![Game](./assets/img/002.png)
+
+![End](./assets/img/003.png)
 
 You may know the game as it was subsequently published on the cover CD of the Official UK Playstation Magazine (Issue 28), as well as various other magazines and Sony promotional disks for the Net Yaroze programme.
 
