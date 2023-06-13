@@ -1,5 +1,3 @@
-# A Dog Tale
-
 ![Logo](./assets/img/logo.png)
 
 The is the source code for a game demo I wrote for the Net Yaroze in 1997, called A Dog Tale. Demo is the key word here as it's not really a game at all, it was just me playing around with some ideas. In fact the whole thing only started because I wanted to write some code to perform [parallax scrolling](https://en.wikipedia.org/wiki/Parallax_scrolling), and it kind of grew from there. Before I knew it Sony were looking for examples of Net Yaroze games to promote the platform and so I submitted it.
@@ -20,7 +18,7 @@ Should I feel embarassed by the quality of the coding and how bad the game is? N
 
 To me it's something of a time capsule. The original project readme.txt was full of joy and hope and just said:
 
-```text
+```
 This was my first finished game, and very proud of it I am too!
 
 This version is slightly different from the first release as I have made it slightly easier and fixed a couple of small bugs, after some friendly advice from a few individuals.
