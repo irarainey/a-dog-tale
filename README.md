@@ -1,8 +1,8 @@
 # A Dog Tale
 
-This is the source code for a game demo I wrote for the [Net Yaroze](https://en.wikipedia.org/wiki/Net_Yaroze) way back in 1997, called A Dog Tale. **Demo** being the key word here. In fact the whole thing only started because I wanted to write some code to do [parallax scrolling](https://en.wikipedia.org/wiki/Parallax_scrolling), and it kind of grew from there. 
+This is the source code for a game demo I wrote for the [Net Yaroze](https://en.wikipedia.org/wiki/Net_Yaroze) way back in 1997, called A Dog Tale. *Demo* being the key word here. In fact the whole thing only started because I wanted to write some code to do [parallax scrolling](https://en.wikipedia.org/wiki/Parallax_scrolling), and it kind of grew from there. 
 
-Before I knew it Sony were looking for examples of Net Yaroze game demos to promote the platform so I submitted it. But let's be clear upfront - it's a *terrible* game. Like I said it's not even really a game, it's just a demo of some ideas I was playing around with, but that's not how people perceived and of course judged it. It is however a great example of how old code never really dies.
+Before I knew it Sony were looking for examples of [Net Yaroze game demos](https://en.wikipedia.org/wiki/List_of_Net_Yaroze_games) to promote the platform so I submitted it. But let's be clear upfront - it's a *terrible* game. Like I said it's not even really a game, it's just a demo of some ideas I was playing around with, but that's not how people perceived and of course judged it. It is however a great example of how old code never really dies.
 
 ![Start](./assets/img/001.png)
 
@@ -16,7 +16,7 @@ Being a hoarder of stuff, I still have the copy of the magazine and the cover di
 
 ![Logo](./assets/img/magazine.jpg)
 
-If you're not familiar with niche development consoles from a quarter of a century ago, [The Net Yaroze was a development kit for the original Playstation](https://www.eurogamer.net/the-story-of-yaroze-sonys-first-indie-push), released by Sony in 1997. It was essentially a black Playstation One with a different boot ROM, that came with a Sony SDK, a collection of manuals, and the ability to communicate with it over a serial connection. It was only available to hobbyists by applying to the programme, and cost a whopping £750. But it offered a way to write games for dedicated hardware that didn't exist outside of the significantly more expensive blue professional developer kits, albeit in a more limited way. It was Sony's attempt to inject some indie spirit into the Playstation, and console gaming generally and I think it was pretty successful at that.
+If you're not familiar with niche development consoles from a quarter of a century ago, [The Net Yaroze was a development kit for the original Playstation](https://www.eurogamer.net/the-story-of-yaroze-sonys-first-indie-push), released by Sony in 1997. It was essentially a black Playstation One with a different boot ROM, that came with a [Sony Net Yaroze SDK](https://psx.arthus.net/sdk/NetYaroze/YAROZE_SDK.zip), a collection of [manuals](/assets/manuals/), and the ability to communicate with it over a serial connection. It was only available to hobbyists by applying to the programme, and cost £550. But it offered a way to write games for dedicated hardware that didn't exist outside of the significantly more expensive blue professional developer kits, albeit in a more limited way. [It was Sony's attempt to inject some indie spirit into the Playstation](https://killscreen.com/previously/articles/glory-net-yaroze-game-creators-there/), and console gaming generally and I think it was pretty successful at that.
 
 ![Kit](./assets/img/yaroze.png)
 
