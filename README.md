@@ -57,4 +57,4 @@ A DOG TALE      A VIDEO GAME OF AMAZINGLY THIN PROPORTIONS FOR THE SONY PLAYSTAT
 ```
 I was twenty-seven years-old when I wrote that, already looking back fondly to my time as a seventeen year-old spotty bedroom coder. At the time of writing this I am now fifty-three years-old, and other than experience, I'm not really sure how much has changed. Time really does fly.
 
-Anyway, the point to all of this - if there is one at all - is that the code you write today is likely to be around much longer than you think it will be. But don't overthink it or worry about it. Code to the best of your ability today and don't look back. Remember, perfection is the enemy of good enough.
+Anyway, the point to all of this - if there is one at all - is that the code you write today is likely to be around much longer than you think it will be. But don't overthink it or worry about it. Code to the best of your ability today and don't look back in anger, look back with love at your creations and give yourself credit for how far you've come. Remember, perfection is the enemy of good enough.
